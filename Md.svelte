@@ -10,11 +10,6 @@ EXAMPLE:
 		This is my MarkDown code. Isn't it cool!
 	</Md>
 ```
-
-CAVEAT:
-* Svelte control statements do not create text which is parsable.
-* For example, an 'each' loop creates a seperate childNode for each word, and does not retain whitespace information.
-* (A childNode is seperated by HTML tags or Svelte control statements)
 -->
 
 <script>

@@ -1,1 +1,2 @@
-export { default as Md } from './Md.svelte';
+import App from './Md.svelte';
+export default App;
