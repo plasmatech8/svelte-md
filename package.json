@@ -1,0 +1,25 @@
+{
+  "name": "svelte-md",
+  "version": "0.1.0",
+  "description": "A Svelte component to write Markdown easily - directly inside the tag!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plasmatech8/svelte-md.git"
+  },
+  "author": "Mark Connelly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plasmatech8/svelte-md/issues"
+  },
+  "homepage": "https://github.com/plasmatech8/svelte-md#readme",
+  "dependencies": {
+    "marked": "^2.0.1"
+  },
+  "peerDependencies": {
+    "svelte": "^3.37.0"
+  }
+}
